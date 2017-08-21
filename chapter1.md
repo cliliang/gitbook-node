@@ -7,7 +7,6 @@ brew update
 brew install node
 //升级node
 brew upgrade node
-
 ```
 
 
